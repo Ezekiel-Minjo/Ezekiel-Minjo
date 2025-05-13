@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ezekiel Minjo  
 
 💻 **Software Engineer** | **AI & AgriTech Enthusiast**  
-🌱 **BSc. Software Engineering** (Graduating Dec 2024)  
+🌱 **BSc. Software Engineering** (Graduating Dec 2025)  
 🔭 **Building:** [AI-Driven Agricultural System](https://github.com/EzekielMinjo/ai-agri-system) 🌾🤖  
 
 ### 🛠️ Tech Stack  
