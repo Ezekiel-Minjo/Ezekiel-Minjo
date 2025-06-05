@@ -94,15 +94,52 @@ Integration: IoT Simulation, Real-time Data Processing
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Real-time GitHub Analytics
 
 <div align="center">
-  
-![Ezekiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezekiel-minjo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel-minjo&layout=compact&theme=tokyonight)
+### 🚀 [View Live Dashboard](https://your-username.github.io/github-stats-dashboard) 
+*Real-time stats that update every 30 seconds*
+
+<!-- Enhanced GitHub Stats with cache busting -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezekiel-minjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezekiel-minjo&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2196F3&sideLabels=2196F3&dates=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel-minjo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=ffffff&langs_count=8)
+
+### 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezekiel-minjo&theme=tokyo-night&bg_color=0D1117&color=2196F3&line=FF6B6B&point=ffffff&area=true&hide_border=true)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezekiel-minjo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
+
+<!-- Live Stats Counter (Updates automatically) -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpv/?username=ezekiel-minjo&label=Profile%20Views&color=2196F3&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ezekiel-minjo?label=Followers&style=for-the-badge&color=2196F3)
+![GitHub Stars](https://img.shields.io/github/stars/ezekiel-minjo?affiliations=OWNER&style=for-the-badge&color=FF6B6B)
+
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This will be auto-updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!-- This will be auto-updated by WakaTime -->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -139,5 +176,7 @@ Integration: IoT Simulation, Real-time Data Processing
 <div align="center">
   
 *"The best way to predict the future is to invent it." - Alan Kay*
+
+![Snake Animation](https://raw.githubusercontent.com/ezekiel-minjo/ezekiel-minjo/output/github-contribution-grid-snake.svg)
 
 </div>
