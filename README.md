@@ -119,7 +119,6 @@ Integration: IoT Simulation, Real-time Data Processing
 <!-- Live Stats Counter (Updates automatically) -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpv/?username=ezekiel-minjo&label=Profile%20Views&color=2196F3&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ezekiel-minjo?label=Followers&style=for-the-badge&color=2196F3)
 ![GitHub Stars](https://img.shields.io/github/stars/ezekiel-minjo?affiliations=OWNER&style=for-the-badge&color=FF6B6B)
 
@@ -177,6 +176,5 @@ Integration: IoT Simulation, Real-time Data Processing
   
 *"The best way to predict the future is to invent it." - Alan Kay*
 
-![Snake Animation](https://raw.githubusercontent.com/ezekiel-minjo/ezekiel-minjo/output/github-contribution-grid-snake.svg)
 
 </div>
