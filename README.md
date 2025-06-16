@@ -2,19 +2,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Data+Science+Enthusiast;Backend+Development+Expert;Problem+Solver+%26+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3¢er=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Data+Science+Enthusiast;Backend+Development+Expert;Problem+Solver+%26+Innovator)
 
 </div>
 
-**🚀 Software Engineer | 🤖 AI & Data Science Enthusiast | 🎓 Final Year Student**
+**🚀 Software Engineer | 🤖 AI & Data Science Enthusiast | 🌱 Problem Solver**
 
-Final year BSc. Software Engineering student passionate about building intelligent systems that solve real-world problems using AI, data science, and scalable backend development.
-
----
-
-## 🎓 About Me
-
-I'm currently pursuing my BSc. in Software Engineering at **The Co-operative University of Kenya**, graduating in **December 2025**. My passion lies in crafting intelligent, scalable systems that use AI and robust backend architectures to drive innovation in sectors like **🌾 agriculture**, **🏥 healthcare**, and **♻️ sustainable tech**.
+I'm passionate about building intelligent, scalable systems that solve real-world problems using AI, data science, and robust backend architectures, with a focus on **🌾 agriculture**, **🏥 healthcare**, and **♻️ sustainable tech**.
 
 > *"Building tomorrow's solutions with today's technology"*
 
@@ -59,31 +53,29 @@ I'm currently pursuing my BSc. in Software Engineering at **The Co-operative Uni
 ## 🌟 Featured Project: AI-Driven Agricultural System
 
 <div align="center">
-  
+
 **🌾 Smart Agriculture Dashboard | 🚀 Lead Developer**  
-*Co-operative University of Kenya*  
+*Final Year Project*  
 **📅 Sep 2024 – May 2025**
 
 </div>
 
-A revolutionary smart agriculture dashboard that integrates AI and IoT technologies to empower smallholder farmers with data-driven insights for optimal crop management and yield maximization.
+A cutting-edge smart agriculture dashboard that leverages AI and IoT to empower smallholder farmers with data-driven insights for optimal crop management and yield maximization.
 
 ### ✨ Key Features
-
-🔄 **Real-time IoT Integration** – Live sensor data for soil conditions, temperature & humidity monitoring  
-🧠 **AI-Powered Insights** – Machine learning models for crop recommendations, pest detection, and yield forecasting  
-⚡ **Scalable Architecture** – High-performance Flask API with MongoDB, supporting 1,000+ concurrent users  
-📊 **Performance Excellence** – Achieving 95% system uptime with comprehensive error handling  
-📱 **User-Centric Design** – Intuitive, mobile-responsive React interface designed for farmers  
+- 🔄 **Real-time IoT Integration**: Live sensor data for soil conditions, temperature, and humidity monitoring  
+- 🧠 **AI-Powered Insights**: Machine learning models for crop recommendations, pest detection, and yield forecasting  
+- ⚡ **Scalable Architecture**: High-performance Flask API with MongoDB, supporting 1,000+ concurrent users  
+- 📊 **Performance Excellence**: 95% system uptime with robust error handling  
+- 📱 **User-Centric Design**: Mobile-responsive React interface tailored for farmers  
 
 ### 🔧 Tech Stack
-```
 Frontend: React, JavaScript, HTML5, CSS3
 Backend: Python, Flask, RESTful APIs
 Database: MongoDB
-AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
+AI/ML: TensorFlow, scikit-learn, NumPy, Pandas
 Integration: IoT Simulation, Real-time Data Processing
-```
+
 
 ### 📈 Performance Metrics
 - 🟢 **95% System Uptime**
@@ -94,14 +86,13 @@ Integration: IoT Simulation, Real-time Data Processing
 
 ---
 
-## 📊 Real-time GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 ### 🚀 [View Live Dashboard](https://your-username.github.io/github-stats-dashboard) 
-*Real-time stats that update every 30 seconds*
+*Real-time stats updated every 30 seconds*
 
-<!-- Enhanced GitHub Stats with cache busting -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezekiel-minjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezekiel-minjo&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2196F3&sideLabels=2196F3&dates=ffffff)
@@ -116,7 +107,6 @@ Integration: IoT Simulation, Real-time Data Processing
 
 </div>
 
-<!-- Live Stats Counter (Updates automatically) -->
 <div align="center">
 
 ![GitHub Followers](https://img.shields.io/github/followers/ezekiel-minjo?label=Followers&style=for-the-badge&color=2196F3)
@@ -131,14 +121,6 @@ Integration: IoT Simulation, Real-time Data Processing
 <!--START_SECTION:activity-->
 <!-- This will be auto-updated by GitHub Actions -->
 <!--END_SECTION:activity-->
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!-- This will be auto-updated by WakaTime -->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -157,24 +139,23 @@ Integration: IoT Simulation, Real-time Data Processing
 ## 🎯 Fun Fact
 
 **I love optimizing both code and crop yields!** 🌾💻  
-*Currently bridging the gap between technology and agriculture, one algorithm at a time.*
+*Bridging technology and agriculture, one algorithm at a time.*
 
 ---
 
 <div align="center">
 
 ### 💼 Open to Opportunities
-*Actively seeking internships and collaborations in **AI Development**, **Backend Engineering**, and **Agricultural Technology***
+*Actively seeking roles and collaborations in **AI Development**, **Backend Engineering**, and **Agricultural Technology***
 
-⭐ **Don't forget to star my repositories if you find them interesting!** ⭐
+⭐ **Star my repositories if you find them inspiring!** ⭐
 
 </div>
 
 ---
 
 <div align="center">
-  
-*"The best way to predict the future is to invent it." - Alan Kay*
 
+*"The best way to predict the future is to invent it." - Alan Kay*
 
 </div>
