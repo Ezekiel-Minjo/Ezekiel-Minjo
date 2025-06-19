@@ -50,60 +50,15 @@ I'm passionate about building intelligent, scalable systems that solve real-worl
 
 ---
 
-## 🌟 Featured Project: AI-Driven Agricultural System
+## 📊 GitHub Stats
 
 <div align="center">
-
-**🌾 Smart Agriculture Dashboard | 🚀 Lead Developer**  
-*Final Year Project*  
-**📅 Sep 2024 – May 2025**
-
-</div>
-
-A cutting-edge smart agriculture dashboard that leverages AI and IoT to empower smallholder farmers with data-driven insights for optimal crop management and yield maximization.
-
-### ✨ Key Features
-- 🔄 **Real-time IoT Integration**: Live sensor data for soil conditions, temperature, and humidity monitoring  
-- 🧠 **AI-Powered Insights**: Machine learning models for crop recommendations, pest detection, and yield forecasting  
-- ⚡ **Scalable Architecture**: High-performance Flask API with MongoDB, supporting 1,000+ concurrent users  
-- 📊 **Performance Excellence**: 95% system uptime with robust error handling  
-- 📱 **User-Centric Design**: Mobile-responsive React interface tailored for farmers  
-
-### 🔧 Tech Stack
-Frontend: React, JavaScript, HTML5, CSS3
-Backend: Python, Flask, RESTful APIs
-Database: MongoDB
-AI/ML: TensorFlow, scikit-learn, NumPy, Pandas
-Integration: IoT Simulation, Real-time Data Processing
-
-
-### 📈 Performance Metrics
-- 🟢 **95% System Uptime**
-- 👥 **100+ Concurrent Users**
-- 🤖 **3 AI Models Deployed**
-- ⚡ **Sub-second Response Time**
-- 🎯 **85% Prediction Accuracy**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🚀 [View Live Dashboard](https://your-username.github.io/github-stats-dashboard) 
-*Real-time stats updated every 30 seconds*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezekiel-minjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezekiel-minjo&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2196F3&sideLabels=2196F3&dates=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezekiel-minjo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=ffffff&langs_count=8)
-
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezekiel-minjo&theme=tokyo-night&bg_color=0D1117&color=2196F3&line=FF6B6B&point=ffffff&area=true&hide_border=true)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezekiel-minjo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -113,14 +68,6 @@ Integration: IoT Simulation, Real-time Data Processing
 ![GitHub Stars](https://img.shields.io/github/stars/ezekiel-minjo?affiliations=OWNER&style=for-the-badge&color=FF6B6B)
 
 </div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This will be auto-updated by GitHub Actions -->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -136,7 +83,7 @@ Integration: IoT Simulation, Real-time Data Processing
 
 ---
 
-## 🎯 Fun Fact
+## 🎯 About Me
 
 **I love optimizing both code and crop yields!** 🌾💻  
 *Bridging technology and agriculture, one algorithm at a time.*
