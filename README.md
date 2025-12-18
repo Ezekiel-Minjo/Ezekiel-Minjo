@@ -15,4 +15,4 @@
 ## Connect
 
 📧 ezekielminjo4@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ezekiel-minjo/)
+💼 ![LinkedIn](https://www.linkedin.com/in/ezekiel-minjo/)
