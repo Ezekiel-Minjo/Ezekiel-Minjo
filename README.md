@@ -1,4 +1,4 @@
-> # Ezekiel Minjo
+> # Ezekiel Minjo <
 
 **Software Engineer** specializing in AI, data science, and backend development. Building intelligent, scalable systems for agriculture, healthcare, and sustainable tech.
 
